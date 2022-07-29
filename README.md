@@ -1,7 +1,7 @@
 # Tela-de-login-HTML
 Uma tela de login utilizando HTML, CSS &amp; JS.
 
-##Documentação da tela de Login
+## Documentação da tela de Login
 
 -Contém um Regex para definir o padrão para senha e email;
 -Acrescentei um efeito para aparecer uma outline responsiva no campo selecionado;
